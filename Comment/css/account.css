@@ -1,0 +1,33 @@
+* {
+    user-select: none;
+}
+
+body {
+    background-color: rgb(175, 175, 175);
+}
+
+h3 {
+    margin: 10px 0 -7px;
+    color: rgb(0, 122, 255)
+}
+
+hr {
+    height: 3px;
+    width: 300px;
+    border-radius: 1px;
+    border-width: 0;
+    background-color: rgb(0, 122, 255);
+}
+
+.form-container {
+    width: 300px;
+    margin: 10% 0 0 38%;
+}
+
+button {
+    margin-left: 35%;
+}
+
+a {
+    margin: 49% 0 0 26%;
+}

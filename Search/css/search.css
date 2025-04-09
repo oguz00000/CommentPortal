@@ -1,0 +1,54 @@
+* {
+    user-select: none;
+}
+
+body {
+    background: rgb(175, 175, 175);
+}
+
+.form-container {
+    width: 300px;
+    margin: 10% 0 0 38%;
+}
+
+h1 {
+    margin-bottom: -5px;
+    color: rgb(0, 122, 255)
+}
+
+hr {
+    height: 3px;
+    border-radius: 1px;
+    border-width: 0;
+    background-color: rgb(0, 122, 255);
+}
+
+/*
+h3 {
+    color: blue;
+}
+
+span {
+    margin-top: 10px;
+    color: yellow;
+}
+
+.search-bar {
+    margin: 20px;
+}
+
+.result-box {
+    width: 300px;
+    padding: 20px;
+    background: lightgray;
+    border-radius: 5px;
+}
+
+.row-box {
+    width: 200px;
+    line-height: 20px;
+    border-radius: 5px;
+    margin-bottom: 10px;
+    padding: 10px;
+    background-color: lightseagreen;
+}*/

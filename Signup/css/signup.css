@@ -1,0 +1,24 @@
+* {
+    user-select: none;
+}
+
+body {
+    background: rgb(175, 175, 175);
+}
+
+.form-container {
+    width: 300px;
+    margin: 7% 0 0 38%;
+}
+
+h1 {
+    margin-bottom: -5px;
+    color: rgb(0, 122, 255)
+}
+
+hr {
+    height: 3px;
+    border-radius: 1px;
+    border-width: 0;
+    background-color: rgb(0, 122, 255);
+}
